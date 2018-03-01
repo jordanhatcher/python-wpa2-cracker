@@ -5,13 +5,14 @@ using WPA2. It watches packets related to a specific wireless network and
 captures a [4-way](https://en.wikipedia.org/wiki/IEEE_802.11i-2004) handshake
 when a device connects to that network.
 
-_Please don't try to use this for actually trying to break into wireless
+__Please don't try to use this for actually trying to break into wireless
 networks. Not only is that illegal in most places, but this script is not
 even remotely optimized compared to other freely available software tools.
-This is only for leaning purposes only._
+This is only for leaning purposes only.__
 
-I also wrote a blog post about this project [on my website]() that you can
-check out!
+I also wrote a blog post about this project
+[on my website](https://jordan-hatcher.com/blog/break-wifi-with-python/) that
+you can check out!
 
 ## Prerequisites
 To run this script, you need the following:
